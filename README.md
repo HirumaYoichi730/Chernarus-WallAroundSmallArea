@@ -11,7 +11,11 @@ So, the only things that are in this file is the following:
 3: 6x Land_Castle_Stairs.
 4: 28x Land_Castle_Donjon.
 5: 1x Bonfire.
-6: 56x StaticObj_Misc_Obstacle_Ramp.
+6: 57x StaticObj_Misc_Obstacle_Ramp.
+7: 1x Land_Misc_Well_Pump_Blue.
+8: 2x StaticObj_Platform1_Stairs_Block.
+If you found this on my youtube channel. You might have noticed that number 7 and number 8 are not in the video and also on one
+of the towers near the gate there is no ramp. I had added those four objects later.
 
 So, easiest way to find this is if you go the roundabout at Cherno, the one that has the Tank monument at the middle.
 And then you just follow the road up towards the apartments complex area and at the intersection go to the right.
